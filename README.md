@@ -1,2 +1,2 @@
 # midi-drumpad-alura
-Um MIDI drumpad realizado com HTML, CSS e JS afim de um melhor entendimento de JS.
+Um MIDI drumpad realizado com HTML, CSS e JS afim de entender a linguagem javascript na web.
